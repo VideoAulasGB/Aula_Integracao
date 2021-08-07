@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/VideoAulasGB/Aula_Integracao/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://videoaulasgb.github.io/Aulas_Integracao/index.html) to maintain and preview the content for your website in Markdown files.
 
 O vedere la prima lezione [Aula Integral Imprópria] (https://videoaulasgb.github.io/Aulas_Integracao/index.html)
 
