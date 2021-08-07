@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://videoaulasgb.github.io/Aulas_Integrac
 
 O vedere la prima lezione [Aula Integral Imprópria] (https://videoaulasgb.github.io/Aulas_Integracao/index.html)
 
+You can use the [editor on GitHub](https://videoaulasgb.github.io/Aulas_Integracao/index.html) to maintain and preview the content for your website in Markdown files.
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
